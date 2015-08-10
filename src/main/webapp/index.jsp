@@ -1,5 +1,5 @@
-<html>
-<body>
+<%@include file="partials/_header.jsp" %>
+<div class="container">
 <h2>Hello World!</h2>
-</body>
-</html>
+</div>
+<%@include file="partials/_footer.jsp" %>
